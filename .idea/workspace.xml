@@ -4,16 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ccb6e7-bd9a-47fc-b69a-b926aa3ce446" name="Changes" comment="" />
+    <list default="true" id="c1ccb6e7-bd9a-47fc-b69a-b926aa3ce446" name="Changes" comment="upd cheaker">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/goit/CRUD/PlanetCrudService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/goit/CRUD/PlanetCrudService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/goit/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/goit/Planet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,10 +45,37 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/volodymyrshynkarenko/Documents/Java goit/mod3/mod10/src/main/java/com/goit/Main.java"
+    "onboarding.tips.debug.path": "/Users/volodymyrshynkarenko/Documents/Java goit/mod3/mod10/src/main/java/com/goit/Main.java",
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.goit" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.goit.Main" />
+      <module name="mod10.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.goit.CRUD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,17 +85,74 @@
       <option name="presentableId" value="Default" />
       <updated>1685971044856</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1685991956812</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685991956812</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1685992045076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685992045077</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1685992105355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685992105355</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init">
+      <created>1685992142301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685992142301</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init">
+      <created>1685992184163</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685992184163</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init">
+      <created>1686040734674</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686040734674</updated>
+    </task>
+    <task id="LOCAL-00007" summary="create cheak name length 3 - 200">
+      <created>1686040876155</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686040876155</updated>
+    </task>
+    <task id="LOCAL-00008" summary="upd cheaker">
+      <created>1686041865033</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686041865034</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/goit/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="upd cheak name" />
+    <MESSAGE value="create cheak name length 3 - 200" />
+    <MESSAGE value="upd cheaker" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd cheaker" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
